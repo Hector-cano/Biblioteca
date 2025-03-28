@@ -4,7 +4,7 @@
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
         <ConnectionNode Name="(local):curso">
-          <Created>2025-03-27T09:41:00.3906925+01:00</Created>
+          <Created>2025-03-28T12:55:50.5660568+01:00</Created>
           <Type>SQL</Type>
           <Server>(local)</Server>
           <UserName>curso</UserName>
@@ -29,28 +29,22 @@
           <FullPath>00createdatabase.sql</FullPath>
         </FileNode>
         <FileNode Name="01Libros.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
-          <FullPath>01Libros.sql</FullPath>
-        </FileNode>
-        <FileNode Name="02Usuaros.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
-          <FullPath>02Usuaros.sql</FullPath>
-        </FileNode>
-        <FileNode Name="03Préstamos.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
-          <FullPath>03Préstamos.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQuery4.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
           <AssociatedConnUserName>curso</AssociatedConnUserName>
-          <FullPath>SQLQuery4.sql</FullPath>
+          <FullPath>01Libros.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02Usuaros.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName>curso</AssociatedConnUserName>
+          <FullPath>02Usuaros.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03Préstamos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):False:curso</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName>curso</AssociatedConnUserName>
+          <FullPath>03Préstamos.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
